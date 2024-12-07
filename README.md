@@ -40,15 +40,3 @@ For any queries or additional information, visit our contact page:
 ## Support
 If you need help with this project, reach out via email:  
 **support@mycountrymobile.com**
-
----
-
-### How to Upload to GitHub
-1. Create a new repository on GitHub.
-2. Copy this `README.md` into the repository folder along with your project files.
-3. Commit and push:
-   ```bash
-   git add .
-   git commit -m "Added README.md with About, Contact, and Support sections"
-   git push origin main
-   ```
